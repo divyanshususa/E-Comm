@@ -1,0 +1,11 @@
+/* tailwind utilities */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* default settings */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
